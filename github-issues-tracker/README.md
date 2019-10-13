@@ -1,3 +1,8 @@
+# TO-DO
+
+Add validation when checking for a non-existent github repository
+Add validation when checking for 'empty' repository (when nothing is passed)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
